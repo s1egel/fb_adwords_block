@@ -33,7 +33,7 @@ view: campaigns {
     link: {
       label: "Campaign Lookup Dashboard"
       icon_url: "https://looker.com/favicon.ico"
-      url: "https://boomerang.looker.com/dashboards/6?Campaign%20Name={{ value }}"
+      url: "https://suiteness.looker.com/dashboards/facebook_ads::campaign_lookup?Campaign%20Name={{ value }}"
     }
   }
 
